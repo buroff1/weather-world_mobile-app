@@ -76,5 +76,5 @@ Interested in contributing? Follow these steps:
 ## 📧Contact
 
 - Email: [artem.burov0205@gmail.com](mailto:artem.burov0205@gmail.com)
-- GitHub: [buroff1](https://github.com/buroff1)`
+- GitHub: [buroff1](https://github.com/buroff1)
 
