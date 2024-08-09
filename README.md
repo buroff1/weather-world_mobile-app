@@ -1,9 +1,11 @@
 # WeatherWorld Mobile App 🌦️
 
-## 🧪 Demo
-![Picture7-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/7eae0eb8-9924-4ef4-8e1b-dcce6939608e)
+## 🧪Demo
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7eae0eb8-9924-4ef4-8e1b-dcce6939608e" alt="Demo">
+</p>
 
-## 📝 Content
+## 📝Content
 
 - [Overview](#%EF%B8%8Foverview)
 - [Technologies](#technologies)
